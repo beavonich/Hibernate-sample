@@ -22,6 +22,5 @@ public class Test1 {
         } finally {
             factory.close();
         }
-
     }
 }
